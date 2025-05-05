@@ -1,1 +1,2 @@
-# RT2-Assiment2
+# RT2-Assignment2
+Second Assignment of RT2, Jupyter Notebook
