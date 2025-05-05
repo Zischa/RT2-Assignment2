@@ -1,6 +1,6 @@
 # RT2-Assignment2
 
-This repository contains the source code and configuration for **RT2 Assignment 2**, part of the Robotics and Intelligent Systems course. The project focuses on developing and integrating ROS-based nodes to control a robot in a simulated environment.
+This repository contains the source code and configuration for **RT2 Assignment 2**, part of the Research Track 2 course. The project focuses on developing and integrating ROS-based nodes to control a robot in a simulated environment on Jupyter Notebooks.
 
 ## Project Overview
 
